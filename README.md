@@ -1,8 +1,8 @@
 # JNIDemo — Application Android avec Java Native Interface (JNI)
-Salma AIT ZIDAN
 Projet Android développé dans le cadre d'un laboratoire pédagogique sur l'utilisation du NDK Android et de JNI pour faire communiquer du code Java avec du code natif C++.
 
 ---
+Salma AIT ZIDAN
 
 ## Objectif du projet
 
