@@ -85,8 +85,8 @@ Java (affichage du résultat)
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/<votre-username>/JNIDemo.git
-   cd JNIDemo
+   git clone https://github.com/salmaaitzidan/Lab22-JNI.git
+   cd Lab22-JNI
    ```
 
 2. **Ouvrir dans Android Studio :**
